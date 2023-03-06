@@ -43,4 +43,9 @@ MySQL, MongoDB, DynamoDB, Google Cloud, MS Azure, Oracle
 kuber
 apachespark 
 maven 
+hadoop
+oracle
+cassandra
+hive
+kafka
 etc?
