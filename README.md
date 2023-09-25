@@ -1,1 +1,1 @@
-general computer notes
+general software notes
